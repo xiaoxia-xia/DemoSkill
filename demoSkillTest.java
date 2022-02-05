@@ -5,7 +5,8 @@ public class demoSkillTest {
     @Test
     public void check()
     {
-        assertEquals(1, demoSkill.One);
+        assertEquals(1,demoSkill.One);
         // this will fail 
+        //
     }
 }
